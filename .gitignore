@@ -21,3 +21,7 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+.idea
+cabal.config
+LeaseAPI.iml
+out/
